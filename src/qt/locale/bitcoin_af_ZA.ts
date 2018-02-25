@@ -214,8 +214,8 @@
         <translation>&amp;Opsies</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>Lirabit</source>
+        <translation>Lirabit</translation>
     </message>
     <message>
         <source>Wallet</source>
