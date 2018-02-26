@@ -51,10 +51,10 @@ is included in as separate release-notes.  This section describes the Lirabit-sp
 
 Protocol:
 - Scrypt Proof-of-Work instead of sha256d, however block hashes are sha256d for performance reasons.
-- Lirabit TCP port 9333 (instead of 8333)
-- RPC TCP port 9332 (instead of 8332)
-- Testnet TCP port 19333 (instead of 18333)
-- Testnet RPC TCP port 19332 (instead of 18332)
+- Lirabit TCP port 9383 (instead of 8333)
+- RPC TCP port 9382 (instead of 8332)
+- Testnet TCP port 19383 (instead of 18333)
+- Testnet RPC TCP port 19382 (instead of 18332)
 - 84 million coin limit  (instead of 21 million)
 - Magic 0xfbc0b6db       (instead of 0xf9beb4d9)
 - Target Block Time 2.5 minutes (instead of 10 minutes)
